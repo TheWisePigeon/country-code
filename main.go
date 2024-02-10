@@ -146,4 +146,76 @@ var countryCodes = map[string]CountryCode{
 		ISO:  "BI/BDI",
 		Name: "Burundi",
 	},
+	"855": {
+		ISO:  "KH/KHM",
+		Name: "Cambodia",
+	},
+	"237": {
+		ISO:  "CM/CMR",
+		Name: "Cameroon",
+	},
+	"1": {
+		ISO:  "CA/CAN",
+		Name: "Canada",
+	},
+	"238": {
+		ISO:  "CV/CPV",
+		Name: "Cape Verde",
+	},
+	"1-345": {
+		ISO:  "KY/CYM",
+		Name: "Cayman Islands",
+	},
+	"236": {
+		ISO:  "CF/CAF",
+		Name: "Central African Republic",
+	},
+	"235": {
+		ISO:  "TD/TCD",
+		Name: "Chad",
+	},
+	"56": {
+		ISO:  "CL/CHL",
+		Name: "Chile",
+	},
+	"86": {
+		ISO:  "CN/CHN",
+		Name: "China",
+	},
+	"57": {
+		ISO:  "CO/COL",
+		Name: "Columbia",
+	},
+	"269": {
+		ISO:  "KM/COM",
+		Name: "Comoros",
+	},
+	"682": {
+		ISO:  "CK/COK",
+		Name: "Cook Islands",
+	},
+	"506": {
+		ISO:  "CR/CRI",
+		Name: "Costa Rica",
+	},
+	"385": {
+		ISO:  "HR/HRV",
+		Name: "Croatia",
+	},
+	"53": {
+		ISO:  "CU/CUB",
+		Name: "Cuba",
+	},
+	"599": {
+		ISO:  "CW/CUW",
+		Name: "Curacao",
+	},
+	"357": {
+		ISO:  "CY/CYP",
+		Name: "Cyprus",
+	},
+  "420": {
+    ISO: "CZ/CZE",
+    Name: "Czech Republic",
+  },
 }
