@@ -66,4 +66,84 @@ var countryCodes = map[string]CountryCode{
 		ISO:  "AZ/AZE",
 		Name: "Azerbaijan",
 	},
+	"1-242": {
+		ISO:  "BS/BHS",
+		Name: "Bahamas",
+	},
+	"973": {
+		ISO:  "BH/BHR",
+		Name: "Bahrain",
+	},
+	"880": {
+		ISO:  "BD/BGD",
+		Name: "Bangladesh",
+	},
+	"1-246": {
+		ISO:  "BB/BRB",
+		Name: "Barbados",
+	},
+	"375": {
+		ISO:  "BY/BLR",
+		Name: "Belarus",
+	},
+	"32": {
+		ISO:  "BE/BL",
+		Name: "Belgium",
+	},
+	"501": {
+		ISO:  "BZ/BLZ",
+		Name: "Belize",
+	},
+	"229": {
+		ISO:  "BJ/BEN",
+		Name: "Benin",
+	},
+	"1-441": {
+		ISO:  "BM/BMU",
+		Name: "Bermuda",
+	},
+	"975": {
+		ISO:  "BT/BTN",
+		Name: "Bhutan",
+	},
+	"591": {
+		ISO:  "BO/BOL",
+		Name: "Bolivia",
+	},
+	"387": {
+		ISO:  "BA/BIH",
+		Name: "Bosnia and Herzegovina",
+	},
+	"267": {
+		ISO:  "BW/BWA",
+		Name: "Botswana",
+	},
+	"55": {
+		ISO:  "BR/BRA",
+		Name: "Brazil",
+	},
+	"246": {
+		ISO:  "IO/IOT",
+		Name: "British Indian Ocean Territory",
+	},
+	"1-284": {
+		ISO:  "VG/VGB",
+		Name: "British Virgin Islands",
+	},
+	"673": {
+		ISO:  "BN/BRN",
+		Name: "Brunei",
+	},
+	"359": {
+		ISO:  "BG/BGR",
+		Name: "Bulgaria",
+	},
+	"226": {
+		ISO:  "BF/BFA",
+		Name: "Burkina Faso",
+	},
+	"257": {
+		ISO:  "BI/BDI",
+		Name: "Burundi",
+	},
 }
